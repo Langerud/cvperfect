@@ -1,0 +1,14 @@
+{
+  "name": "CVPerfect",
+  "version": "1.0.0",
+  "description": "AI-powered Resume & CV Creator",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Build complete'",
+    "dev": "npx live-server src"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
